@@ -1,0 +1,6 @@
+# Compiled Java files
+bin/
+*.class
+
+# Sensitive configuration files
+.env
